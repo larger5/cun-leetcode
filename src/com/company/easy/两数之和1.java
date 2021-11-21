@@ -31,6 +31,7 @@ public class 两数之和1 {
 
     /**
      * 空间换时间(2 ms, 38.6 MB)
+     * 内核成本高于内存
      *
      * @param nums   源数组
      * @param target 目标值
